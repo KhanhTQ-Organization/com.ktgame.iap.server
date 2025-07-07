@@ -1,0 +1,20 @@
+{
+    "name": "com.ktgame.iap.server",
+    "rootNamespace": "com.ktgame.iap.server",
+    "references": [
+        "GUID:552d76a3943fbe74f9c488fbb4f90d61",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:7bb1ee73ebb9f114188944f67b1333d6",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
